@@ -9,9 +9,9 @@ GlFancyCoverFlow
 FancyCoverFlow而成。本demo多应用于影院海报展示，使用UiversalImageLoader从网络获取图片，可以无限轮播，可以选择自动轮播或者 
 手动滑动。
 
-![](https://github.com/LittleLiByte/GlFancyCoverFlow/blob/master/res/raw/ScreenShots/device-2014-10-15-141029.png)
+![](https://github.com/LittleLiByte/GlFancyCoverFlow/blob/master/GlFancyCoverFlow/res/raw/ScreenShots/device-2014-10-15-141029.png)
 
-![](https://github.com/LittleLiByte/GlFancyCoverFlow/blob/master/res/raw/ScreenShots/device-2014-10-15-141041.png)
+![](https://github.com/LittleLiByte/GlFancyCoverFlow/blob/master/GlFancyCoverFlow/res/raw/ScreenShots/device-2014-10-15-141041.png)
 
-![](https://github.com/LittleLiByte/GlFancyCoverFlow/blob/master/res/raw/ScreenShots/device-2014-10-15-141056.png)
+![](https://github.com/LittleLiByte/GlFancyCoverFlow/blob/master/GlFancyCoverFlow/res/raw/ScreenShots/device-2014-10-15-141056.png)
 
