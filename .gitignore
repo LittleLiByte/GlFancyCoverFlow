@@ -1,5 +1,4 @@
 ﻿# built application files
-*.apk
 *.ap_
 
 # files for the dex VM
@@ -21,3 +20,5 @@ local.properties
 .classpath
 .project
 
+/GlFancyCoverFlow/bin/jarlist.cache
+/GlFancyCoverFlow/bin/classes

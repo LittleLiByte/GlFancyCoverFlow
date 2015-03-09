@@ -288,10 +288,13 @@ public class FancyCoverFlow extends Gallery {
 	@Override
 	protected int getChildDrawingOrder(int childCount, int i) {
 
-		int centerPosition = (childCount - 1) / 2;
+		int selectedIndex = getSelectedItemPosition()
+				- getFirstVisiblePosition();
 
-		if (i >= centerPosition) {
-			return childCount - (i - centerPosition) - 1;
+		if (i < selectedIndex) {
+			return i;
+		} else if (i >= selectedIndex) {
+			return childCount - 1 - i + selectedIndex;
 		} else {
 			return i;
 		}
